@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+}
+
+.cbsas {
+  font-size: 2.3vw !important;
+  font-weight: 500 !important;
+}
+
+.cbsas-desc {
+  font-size: 0.9vw !important;
+}
+
+.logo-codoacodo {
+  width: 6vw;
+}
+
+.logo-codoacodo:hover {
+  filter: brightness(120%) !important;
+}
+
+.conf-Bs-As {
+  font-size: 1.3vw !important;
+  text-shadow: 10px #3c4042;
+}
+
+.conf-Bs-As:hover {
+  color: #fae106 !important;
+}
+
+.nav-container {
+  background-color: #3c4042;
+}
+
+.secondary-links {
+  color: grey !important;
+}
+
+.navlinks:hover {
+  color: white !important;
+}
+
+.compra-tickets-link {
+  color: #0a8a1b !important;
+}
+
+.carousel-inner {
+  height: calc(100vh - 78px) !important;  
+}
+
+.carousel-item {
+  height: calc(100vh - 78px) !important;
+}
+
+.carousel-size img {
+  position: absolute;
+  overflow: hidden;
+  top: -30px;
+  width: 100vw;
+  filter: brightness(60%);
+}
+
+.carousel-caption {
+  position: relative;
+  margin-left: 40%;
+  display: flex !important;
+  height: 40%;
+  justify-content: flex-end !important;
+  align-items: right !important;
+  width: 35%;
+  text-align: right !important;
+  border: 5px;
+  border-color: black;
+
+}
+
+.btn-orador {
+  font-size: 0.85vw !important;
+}
+
+.btn-comprar-ticket {
+  font-size: 0.85vw !important;
+}
+
+.btn-comprar-ticket:hover {
+  font-size: 0.85vw !important;
+  background-color: #144705 !important;
+  border: 1px solid #144705 !important;
+}
+
+.txt-oradores {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-top: -20px;
+  margin-bottom: 5px;
+}
+
+.card {
+  width: 200px !important;
+  border-width: 1px;
+  border-radius: 7px !important;
+
+}
+
+.cuadro-hawaii {
+  padding: 0px !important;
+  background-color: #3c4042;
+  color: white;
+
+}
+
+.texto-hawaii{
+  border-left: 1px solid !important;
+}
+
+.imagen-hawaii {
+  width: fit-content;
+  padding: 0px !important;
+
+}
+
+.cuadro-hawaii-titulo {
+  margin-top: 20px;
+  font-size: 2.3rem;
+}
+
+.charla-ignite {
+  color: black !important;
+  Text-decoration : underline dotted black;
+}
+
+.registro-container {
+  width: 50% !important;
+}
+
+.btn-enviar{
+  background-color: #5cb441 !important;
+  border: 1px solid #5cb441 !important;
+}
+
+.btn-enviar:hover {
+  background-color: #237a09 !important;
+  border: 1px solid #237a09 !important;
+}
+
+footer {
+  height: 80px;
+  background-image: linear-gradient(to right, #1d3e4e, #1c658f);
+  position: fixed;
+  bottom: 0;
+}
+
+.link-footer {
+  text-decoration: none !important;
+  font-size: 1.2rem !important;
+
+}
+
+.link-footer:hover {
+  color: #7f7e8a !important;
+}
+.grupo-cards {
+  margin-top: 30px;
+
+}
+
+.grid {
+  display: grid;
+  place-items: center;
+  
+}
+
+
+.grupo-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+  
+}
+
+.card {
+  width: 200px !important;
+  align-items: center;
+}
+
+.card-text {
+  text-align: center;
+  margin: 0 !important;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.title-h3 {
+  margin-top: 15px;
+  font-weight: 700;
+}
+
+.lblCantCat p {
+  margin: 11px;
+}
+
+.total-pagar {
+  display: flex;
+  background-color: rgb(160, 179, 201);
+  height: 60px;
+  width: 100%;
+  margin: auto !important;
+  align-items: center;
+  border-radius: 5px;
+  
+  padding-left: 4px;
+
+  
+}
+
+.text-shadow {
+  text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.7);
+}
+
